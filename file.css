@@ -1,0 +1,18 @@
+﻿h1{
+   font-size:110%;
+   color:white;
+   text-align:center;
+   background:#3ac984;
+}
+
+p.new{
+   color:#222833;
+   font-size:50pt;
+   font-weight:1000;
+   text-align:center; 
+}
+
+a{
+   color:#3ac984;
+   text-decoration:underline; 
+}
